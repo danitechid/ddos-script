@@ -12,7 +12,7 @@ git clone https://github.com/danitechid/ddos-script
 ```
 ### Navigate to the folder
 ```bash
-cd ddos-script/
+cd ddos-script
 ```
 ### Install module request python
 ```bash
