@@ -15,7 +15,7 @@ apt install git
 git clone https://github.com/danitechid/ddos-script
 ```
 ### Navigate to the folder
-```cpp
+```bash
 cd /ddos-script
 ```
 ### Install module request python
@@ -23,7 +23,7 @@ cd /ddos-script
 pip install request
 ```
 ### How to use
-```cpp
+```bash
 python main.py <target-url> <request-count>
 ```
 ### Example of use
