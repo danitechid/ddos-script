@@ -16,7 +16,7 @@ cd ddos-script
 ```
 ### Install module request python
 ```bash
-pip install request
+pip install requests
 ```
 ### How to use
 ```bash
