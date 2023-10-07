@@ -1,6 +1,4 @@
-import sys
-import requests
-import threading
+import sys, requests, threading
 from colorama import Fore, Style
 
 def make_request(url, request_number):
