@@ -1,14 +1,10 @@
 # DDoS Script
-Attention! Please don't use this script for evil, don't sell it, understand?
+Attention! Please don't use this script to do any illegal activity, don't sell it, understand?
 
 ## Installation
-### Install python package
+### Install requirement packages
 ```bash
-apt install python
-```
-### Install git package
-```bash
-apt install git
+apt install git python -y
 ```
 ### Clone repo
 ```bash
@@ -16,7 +12,7 @@ git clone https://github.com/danitechid/ddos-script
 ```
 ### Navigate to the folder
 ```bash
-cd /ddos-script
+cd ddos-script/
 ```
 ### Install module request python
 ```bash
@@ -26,7 +22,7 @@ pip install request
 ```bash
 python main.py <target-url> <request-count>
 ```
-### Example of use
+### Usage
 ```bash
 python main.py https://example.com 100
 ```
